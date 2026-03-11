@@ -1,18 +1,18 @@
-## BLUEMAGIC V6.0
+<h1 align="center">BLUEMAGIC V6.0</h1>
 
-Launch Cataclyse.exe
+<p align="center">
+Cracked again by <b>𝓒𝓪𝓽𝓪𝓬𝓵𝔂𝓼𝓮</b> | cataclyse
+</p>
 
-go in blueMagic/
-Launch _BlueMagic.exe
+---
 
-use what you want
+## Usage
 
-Only the telegram thin don't work
-
-Cracked a new time by 𝓒𝓪𝓽𝓪𝓬𝓵𝔂𝓼𝓮 | cataclyse
-
-https://git.udtrust.ovh/
-https://udtrust.ovh/
+```text
+1. Launch Cataclyse.exe
+2. Go into the blueMagic/ folder
+3. Launch _BlueMagic.exe
+4. Use what you want
 
 ## Screenshots
 
